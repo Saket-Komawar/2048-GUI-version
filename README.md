@@ -1,4 +1,4 @@
 # 2048-GUI-version
 Made using Pygame Module.
 
-![Alt text](./Screenshot.png?raw=true "Screenshot")
+![Ongoing State](./Screenshot.png?raw=true "Screenshot")
